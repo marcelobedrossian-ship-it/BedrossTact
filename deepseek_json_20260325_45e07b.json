@@ -1,0 +1,24 @@
+{
+    "name": "Sail Droid PWA",
+    "short_name": "SailDroid",
+    "description": "Navegación náutica con waypoints, rutas y GPS",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1a2c3e",
+    "background_color": "#0a1a2a",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
